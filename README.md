@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm working at Mercari as an individual contributor, CTO at VCL, INC.
+I'm working at Mercari as an individual contributor, CTO at VCL, Inc.
 Also I'm CEO & CTO of SolidX.
 Passionate builing something, ship it, improve it.
 
