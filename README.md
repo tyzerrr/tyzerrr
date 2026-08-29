@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm working at Mercari as a fulltime individual contributor, a parttime individual contributor at KnowledgeScence, CTO at VCL, Inc, CEO & CTO of SolidX.
+I'm working at Mercari as a fulltime individual contributor, CTO at Zeimee, Inc, CEO & CTO of SolidX.
 Passionate builing something, ship it, improve it.
 
 <img align="left" width="390" alt="" src="https://github.com/tyzerrr/tyzerrr/blob/main/metrics1.svg">
